@@ -1,0 +1,150 @@
+/* IMPOSTAZIONI GENERALI */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+/* HEADER */
+
+
+
+header{
+    background-color: cyan;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+span{
+    background-color: white;
+    color: cyan;
+    
+}
+
+
+
+
+/* MAIN */
+
+
+
+
+.title{
+    text-align: center;
+    color: cornflowerblue;
+}
+figcaption{
+    text-align: center
+}
+
+blockquote{
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 30px;
+}
+
+.present{
+    text-align: center;
+    padding: 40px;
+    color: cornflowerblue;
+}
+
+strong{
+    color: palevioletred;
+}
+
+mark{
+    background-color: palevioletred;
+    color: white;
+}
+
+.frontend{
+    margin: 20px;
+}
+
+hr{
+    border-top: dashed;
+}
+
+.formact{
+    text-align: center;
+    color: palevioletred;
+    margin: 30px;
+}
+
+h3{
+    margin: 20px;
+}
+
+.conseguito{
+    margin: 20px;
+}
+
+.sapere{
+    text-align: center;
+    color: palevioletred;
+    margin: 30px;
+}
+
+ul{
+    margin: 40px;
+}
+
+dt{
+    margin: 20px;
+}
+dd{
+    text-align: center;
+}
+
+
+
+/* ELEMENTI NEL MAIN */
+
+
+
+
+.postazione{
+    
+        text-align: center;
+        outline: solid;
+        padding: 10px;
+        margin: 20px;
+}
+a{
+    color: green;
+}
+
+
+
+
+
+
+/* FOOTER */
+
+footer{
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+kbd{
+    color: yellow;
+}
+
+.pdf{
+    color: red;
+}
+
+small{
+    color: grey;
+}
